@@ -2,7 +2,7 @@
 
 ### Description
 
-Additional information about variables, data and transformations used in the script (run_analysis.R) for the course project Getting and Cleaning Data course.
+Additional information about variables, data and transformations used in the script (run_analysis.R) for the course project Getting and Cleaning Data course. The purpose of this script is to assign column names and merge to create one tidydata set.
 
 ### Source Data
 
@@ -28,7 +28,7 @@ For each record in the dataset it is provided:
 
 #### Section 1. Merge the training and the test sets to create one data set.
 
-After setting the source directory for the files, read into tables the data located in
+After download the data and setting the source path for the data files, the below files have been loaded into tables -
 
 1. *features.txt*
 2. *activity_labels.txt*
@@ -39,7 +39,6 @@ After setting the source directory for the files, read into tables the data loca
 7. *x_test.txt*
 8. *y_test.txt*
 
-Assign column names and merge to create one data set.
 
 #### Section 2. Extract only the measurements on the mean and standard deviation for each measurement.
 
