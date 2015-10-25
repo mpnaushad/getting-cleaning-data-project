@@ -30,14 +30,14 @@ For each record in the dataset it is provided:
 
 After setting the source directory for the files, read into tables the data located in
 
-*features.txt*
-*activity_labels.txt*
-*subject_train.txt*
-*x_train.txt*
-*y_train.txt*
-*subject_test.txt*
-*x_test.txt*
-*y_test.txt*
+1. *features.txt*
+2. *activity_labels.txt*
+3. *subject_train.txt*
+4. *x_train.txt*
+5. *y_train.txt*
+6. *subject_test.txt*
+7. *x_test.txt*
+8. *y_test.txt*
 
 Assign column names and merge to create one data set.
 
