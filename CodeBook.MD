@@ -2,7 +2,7 @@
 
 ### Description
 
-Additional information about the variables, data and transformations used in the course project for the Johns Hopkins Getting and Cleaning Data course.
+Additional information about variables, data and transformations used in the script (run_analysis.R) for the course project Getting and Cleaning Data course.
 
 ### Source Data
 
