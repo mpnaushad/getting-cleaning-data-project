@@ -1,4 +1,12 @@
-This is the course project for the **Getting and Cleaning Data** Coursera course. The R script, *run_analysis.R*, does the following:
+## Getting and Cleaning Data Project
+
+This is the repo for course project for the **Getting and Cleaning Data** Coursera course. 
+
+### Overview
+
+This project demonstrate the collection and cleaning of a tidy data set that can be used for subsequent analysis.
+
+### High Level Project Summary
 
 1. Download the dataset if it does not already exist in the working directory
 2. Load the activity and feature info
@@ -9,3 +17,7 @@ This is the course project for the **Getting and Cleaning Data** Coursera course
 7. Creates a tidy dataset that consists of the average (mean) value of each variable for each subject and activity pair.
 
 The end result is shown in the file *tidy_Data.txt*.
+
+### Additional and Detail Information
+
+Please refer to the **CodeBook.MD** for detail code information. 
