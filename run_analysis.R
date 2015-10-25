@@ -4,9 +4,9 @@
 
 # run_analysis.R 
 
-# This script will perform the following steps on the UCI HAR Dataset downloaded from 
-# https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-# There are 5 steps demonstrated here in this code to create the tidyData.txt
+# This script will demonstrate how to collect, work with and clean a data set using the UCI HAR Dataset 
+# downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+# There are 5 steps executed in this code to create the final tidyData.txt
 # The steps are described below as the code move forward step-by-step.
 
 #========================================================================================================
