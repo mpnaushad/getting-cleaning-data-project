@@ -1,8 +1,8 @@
 #========================================================================================================
 
-## Coursera Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
-# run_analysis.R 
+# File Name: run_analysis.R 
 
 # This script will demonstrate how to collect, work with and clean a data set using the UCI HAR Dataset 
 # downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
@@ -12,10 +12,12 @@
 #========================================================================================================
 
 # We will be using the below library for Split data frame, apply function, and return results in a data frame
+
 library(plyr)
 
 # Step 1
 # Merge the training and test sets into one data set
+#========================================================================================================
 
 
 # Read train data set
